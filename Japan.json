@@ -1,0 +1,9 @@
+{
+// version for updating, if there is an update, need to
+change more numbers than before
+Version":"1",
+//link for server update
+"Url":"https://github.zip"
+"Changelog":"
+Thanks for using
+",
