@@ -3,7 +3,7 @@
 change more numbers than before
 Version":"1.0.0.1",
 //link for server update
-"Url":"https://github.com/LaminHtet0266/Anime-movies/raw/refs/heads/main/Japan.zip"
+"Url":"https://github.com/LaminHtet0266/Anime-movies/raw/refs/heads/main/Japan.zip",
 "Changelog":"
 Thanks for using
 ",
@@ -16,16 +16,16 @@ Thanks for using
   // don't mess with the bottom
 
 
-'latestVersion": "1.0.0"
+'latestVersion": "1.0.0",
 
 
-'latestVersionCode": "1"
+'latestVersionCode": "1",
 
 
-url"
+url":"",
 
 
-releaseNotes": [
+"releaseNotes": [
 
 
 '-Demo"
