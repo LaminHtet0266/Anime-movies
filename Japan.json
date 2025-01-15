@@ -1,34 +1,31 @@
 {
-// version for updating, if there is an update, need to
-change more numbers than before
-"Version":"1.0.0.3",
+// version for updating, if there is an update
+need to change more numbers than before
+"Version":"1.0.0.1" ,
 //link for server update
-"Url":"https://github.com/LaminHtet0266/Anime-movies/raw/refs/heads/main/Japan.zip",
+"Url":"https://github.com/chanmyae111/hnin/raw/main/tgo.zip" ,
 "Changelog":"
-Thanks for using
-",
+Welcome To MY VPN
+FEEEEEEEEEEFEEE
+Fast Connection 
+Faster Download 
+
+" ,
+
+// don't mess with the bottom
 
 
+"latestVersion": "1.0.0" ,
 
 
+"latestVersionCode": ,"1" ,
 
- // don't mess with the bottom
+"url": "" ,
 
-
-"latestVersion": "1.0.0",
-
-
-"latestVersionCode":"1",
-
-
-"url":"",
-
-
-"releaseNotes":[
-
+"releaseNotes": [
 
 "-Demo"
 
- ]
-  
+ ] 
+
 }
