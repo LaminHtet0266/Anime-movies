@@ -1,7 +1,7 @@
 {
 // version for updating, if there is an update, need to
 change more numbers than before
-"Version":"1.0.0.1",
+"Version":"1.0.2",
 //link for server update
 "Url":"https://github.com/LaminHtet0266/Anime-movies/raw/refs/heads/main/Japan.zip",
 "Changelog":"
@@ -12,24 +12,23 @@ Thanks for using
 
 
 
-
-  // don't mess with the bottom
+ // don't mess with the bottom
 
 
 "latestVersion": "1.0.0",
 
 
-"latestVersionCode": "1",
+"latestVersionCode":"1",
 
 
 "url":"",
 
 
-"releaseNotes": [
+"releaseNotes":[
 
 
 "-Demo"
 
-]
+ ]
   
 }
