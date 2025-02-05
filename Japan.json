@@ -2,12 +2,15 @@
 // version for updating, if there is an update need to change more numbers than before
 "Version":"1.0.0.2",
 //link for server update
-"Url":"https://github.com/LaminHtet0266/Anime-movies/raw/refs/heads/main/ovpn.zip",
+"Url":"https://github.com/LaminHtet0266/Anime-movies/raw/refs/heads/main/ovpn1.zip",
 "Changelog":"
 𝐅𝐫𝐞𝐞𝐦𝐢𝐮𝐦 𝟏𝟎 𝐬𝐞𝐫𝐯𝐞𝐫𝐬
-𝙹𝚊𝚙𝚊𝚗 𝚜𝚎𝚛𝚟𝚎𝚛 𝟻
-𝙺𝚘𝚛𝚎𝚊 𝚜𝚎𝚛𝚟𝚎𝚛 𝟺
+𝙹𝚊𝚙𝚊𝚗 𝚜𝚎𝚛𝚟𝚎𝚛 7
+𝙺𝚘𝚛𝚎𝚊 𝚜𝚎𝚛𝚟𝚎𝚛 4
 𝙶𝚎𝚛𝚖𝚊𝚗𝚢 𝟷
+𝚁𝚞𝚜𝚜𝚒𝚊 𝟷
+𝚃𝚑𝚊𝚒𝚕𝚊𝚗𝚍 𝟷
+𝚄𝚜 𝟸
 ",
  // don't mess with the bottom
 "latestVersion": "1.0.0.1",
